@@ -5,7 +5,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mrjhonyvidal" alt="CoDiNg RocKs"  width="550"/><br> 
   
 #### FullStack web and mobile developer.  
-#### Connecting the dots to become a successful entrepreneur or die trying.
+#### Connecting the dots to become a successful entrepreneur.
 ### Vibing to: 🎧
 
 [<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/playlist/1TWIkGm2inEVhxh7FcS6hQ)<br>
