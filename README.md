@@ -4,7 +4,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mrjhonyvidal" alt="CoDiNg RocKs"  width="550"/><br> 
   
-#### FullStack web and mobile developer.  
+#### FullStack web and mobile developer at Warp Design.  
 #### Connecting the dots to become a successful entrepreneur.
 ### Vibing to: 🎧
 
