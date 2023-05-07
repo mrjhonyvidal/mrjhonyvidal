@@ -6,9 +6,6 @@
   
 #### FullStack web and mobile developer at Warp Design.  
 #### Connecting the dots to become a successful entrepreneur.
-### Vibing to: 🎧
-
-[<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/playlist/1TWIkGm2inEVhxh7FcS6hQ)<br>
 
 ![](https://komarev.com/ghpvc/?username=mrjhonyvidalD&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrjhonyvidal&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
