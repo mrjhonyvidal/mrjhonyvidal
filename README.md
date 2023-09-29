@@ -1,4 +1,4 @@
-## Hey there 👋, thank you for checking my GitHub profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hey there 👋, thank you for checking my GitHub profile.
 
 <div align="center" width="50">
 
