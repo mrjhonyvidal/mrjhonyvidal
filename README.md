@@ -1,4 +1,4 @@
-## Hey there 👋, thank you for checking my GitHub profile.
+## Hey there 👋, welcome to my GitHub profile.
 
 <div align="center" width="50">
 
