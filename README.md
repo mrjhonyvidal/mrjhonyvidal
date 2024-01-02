@@ -7,28 +7,34 @@
 [![Linkedin: jhony-vidal](https://img.shields.io/badge/-jhonyvidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhony-vidal/)](https://www.linkedin.com/in/jhony-vidal/)
 </div>
 
+Hey there 👋, I'm a Full-Stack Developer with a passion for turning complex challenges into smooth, efficient solutions. My expertise spans both front-end and back-end development, enabling me to build comprehensive and effective applications.
+
 🌟 **About Me** 🌟
 
-Hello there! I'm a Full-Stack Developer dedicated to crafting elegant and efficient code. With a knack for both front-end and back-end technologies, I turn complex problems into user-friendly solutions.
+I grew up in São Paulo, Brazil, and lived there until I was 21. Afterward, I moved to Buenos Aires, Argentina, where I not only learned Spanish but also gained valuable experience in a software factory and with the Mulesoft B2B development team. My journey then led me to London, a dream destination for me to improve my English and experience life in the vibrant UK. Currently, I am in the UK under a Skilled Working Visa, aiming for a career in Data/Machine Learning Engineering. In my personal time, I enjoy training for marathons, delving into personal development books, and I'm keen to revisit music study as a long-term personal goal.
 
 💡 **My Philosophy** 💡
 
-"Imagination, action, and discipline can move mountains." This mantra guides me through the ever-evolving landscape of technology. I believe in dreaming big, taking bold steps, and maintaining a disciplined approach to achieve excellence.
+"Imagination, consistent action, and discipline can move mountains." This mantra guides me through the ever-evolving landscape of technology and life. I believe in dreaming big, taking bold steps, and maintaining a disciplined approach to achieve excellence.
 
-🚀 **Skills & Expertise** 🚀
 
-- Proficient in modern front-end frameworks (React, Angular, Vue.js)
-- Back-end expertise (Node.js, PHP, Golang)
-- Database wizardry (MySQL, MongoDB, PostgreSQL)
-- DevOps and Cloud Services (Google Cloud, Docker, CI/CD pipelines)
-- Agile methodologies and collaborative team player
+🔨 Skills:
 
-🌐 **Projects & Contributions** 🌐
+- Front-end: React, Angular
+- Back-end: Node.js, PHP, Java, Golang
+- Mobile: Flutter/Dart
+- Databases: MySQL, MongoDB, PostgreSQL
+- DevOps/Cloud: Google Cloud, Docker, CI/CD
+- Project Management Tools: Jira, Breeze
 
-Check out my repositories to see a range of projects from dynamic web applications to innovative back-end solutions. I actively contribute to open-source communities and always look forward to collaborating on exciting new ideas.
+🚀 Projects:
+
+I enjoy working on diverse web applications and backend systems, focusing on practical and innovative solutions.
+
+I utilise agile methods for adaptable, iterative development, and emphasise teamwork with a focus on open communication and shared responsibilities.
 
 🔗 **Connect with Me** 🔗
 
-Let's build something amazing together! Feel free to reach out for collaborations or just a friendly chat about the latest in tech. 
+Let's connect! I'm always open to discussing new projects.
 
 [LinkedIn Profile](https://www.linkedin.com/in/jhony-vidal/)
