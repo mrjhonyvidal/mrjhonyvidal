@@ -11,7 +11,7 @@ Hey there 👋, I'm a Full-Stack Developer with a passion for turning complex ch
 
 🌟 **About Me** 🌟
 
-I grew up in São Paulo, Brazil, and lived there until I was 21. Afterward, I moved to Buenos Aires, Argentina, where I not only learned Spanish but also gained valuable experience in a software factory and with the Mulesoft B2B development team. My journey then led me to London, a dream destination for me to improve my English and experience life in the vibrant UK. Currently, I am in the UK under a Skilled Working Visa, aiming for a career in Data/Machine Learning Engineering. In my personal time, I enjoy training for marathons, delving into personal development books, and I'm keen to revisit music study as a long-term personal goal.
+I grew up in São Paulo, Brazil, and lived there until I was 21. Afterward, I moved to Buenos Aires, Argentina, where I not only learned Spanish but also gained valuable experience in a software factory and with the Mulesoft B2B development team. My journey then led me to London, a dream destination for me to improve my English and experience life in the vibrant UK. Currently, I am in the UK working as a Web Developer, aiming for a career in Data/Machine Learning Engineering. In my personal time, I enjoy training for marathons, delving into personal development books, and I'm keen to revisit music study as a long-term personal goal.
 
 💡 **My Philosophy** 💡
 
