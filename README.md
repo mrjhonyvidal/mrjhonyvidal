@@ -33,8 +33,6 @@ I enjoy working on diverse web applications and backend systems, focusing on pra
 
 I utilise agile methods for adaptable, iterative development, and emphasise teamwork with a focus on open communication and shared responsibilities.
 
-🔗 **Connect with Me** 🔗
-
-Let's connect! I'm always open to discussing new projects.
+🔗 **Connect with Me in Linkedin** 🔗
 
 [LinkedIn Profile](https://www.linkedin.com/in/jhony-vidal/)
