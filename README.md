@@ -15,7 +15,7 @@ I grew up in São Paulo, Brazil, and lived there until I was 21. Afterwards, I m
 
 My journey then led me to London, a dream destination for me to improve my English and experience life in the vibrant UK. 
 
-Currently, I am in the UK working as a Full-Stack Developer, aiming for a career in Data/Machine Learning Engineering. 
+Currently, I am in the UK working as a Full-Stack Developer, aiming to get back to school and study to start a career as a Data/Machine Learning Engineer. 
 
 In my time, I enjoy training for marathons, reading personal development books, and studying music as a long-term personal goal.
 
