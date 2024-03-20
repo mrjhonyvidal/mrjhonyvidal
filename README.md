@@ -16,5 +16,4 @@
 - Cloud: Google Cloud, AWS
 - Project Management Tools: Jira, Breeze
 
-**Dev Mantra**
-Imagination, consistent improvement, and discipline can move mountains or just your code compile...
+**Dev Mantra:** Imagination, consistent improvement, and discipline can move mountains or just your code compile...
