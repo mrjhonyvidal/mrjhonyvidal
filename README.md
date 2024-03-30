@@ -9,11 +9,11 @@
 
 🔨 **My stack** 🔨
 
-- Front-end: Javascript, React, Next.js
-- Back-end: Node.js, PHP, Java, Golang, Python
-- Mobile: Flutter/Dart
-- Databases: MySQL, MongoDB, PostgreSQL
-- Cloud: Google Cloud, AWS
-- Project Management Tools: Jira, Breeze
+- Front-end: Javascript, Typescript, React, Next.js;
+- Testing: Cypress, Jest, TDD and BDD practices;
+- Back-end: Node.js, PHP, Java, Golang, Python;
+- Mobile: Flutter/Dart;
+- Databases: MySQL, MongoDB, PostgreSQL;
+- Cloud: Google Cloud, AWS;
 
 **Dev Mantra:** Imagination, consistent improvement, and discipline can move mountains or just your code compile...
