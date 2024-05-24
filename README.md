@@ -7,7 +7,7 @@
 [![Linkedin: jhony-vidal](https://img.shields.io/badge/-jhonyvidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhony-vidal/)](https://www.linkedin.com/in/jhony-vidal/)
 </div>
 
-I'm a self-taught passionate Full-Stack Software developer from Brazil 🇧🇷 living in the UK 🇬🇧
+I'm a Full-Stack software developer & Cloud Architect from Sao Paulo, Brazil 🇧🇷 living in London, UK 🇬🇧
 
 **About me**
 
@@ -30,6 +30,6 @@ I ❤️ building digital products and wearing different 🎩🎩.
 - Back-end: Node.js, PHP, Java, Golang, Python;
 - Mobile: Flutter/Dart;
 - Databases: MySQL, MongoDB, PostgreSQL;
-- Cloud: Google Cloud, AWS;
+- Cloud Platforms: Google Cloud, AWS, Heroku, Vercel, Netlify, Mulesoft;
 
 **Dev Mantra:** Imagination, consistent improvement, and discipline can move mountains or "just" build great teams, products and make your code compile...
