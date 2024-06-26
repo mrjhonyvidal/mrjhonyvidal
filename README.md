@@ -7,7 +7,7 @@
 [![Linkedin: jhony-vidal](https://img.shields.io/badge/-jhonyvidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhony-vidal/)](https://www.linkedin.com/in/jhony-vidal/)
 </div>
 
-I'm a Full-Stack software developer & Cloud Architect (beta) from Sao Paulo, Brazil 🇧🇷 living in London, UK 🇬🇧
+I'm a Full-Stack software developer & Cloud Architect (beta) from Sao Paulo, Brazil 🇧🇷 living permanently in the UK 🇬🇧 since 2023.
 
 **About me**
 
