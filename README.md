@@ -7,11 +7,13 @@
 [![Linkedin: jhony-vidal](https://img.shields.io/badge/-jhonyvidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhony-vidal/)](https://www.linkedin.com/in/jhony-vidal/)
 </div>
 
-I'm a Full-Stack software developer from South America 🇦🇷 🇧🇷 living permanently in the UK 🇬🇧 since 2023.
-
 **About me**
 
-I ❤️ building digital products and wearing different 🎩🎩.
+I'm a Full-Stack Software Developer with over 8+ years of experience in e-commerce, cloud systems, and system integrations. I work with PHP, Java, Golang, and JavaScript to build software that improves performance and reduces costs. I also have experience with cloud platforms like AWS and Google Cloud. ☁️
+
+I enjoy working in agile teams 🤝, focusing on collaboration and continuous improvement.
+
+🌱 Having worked in São Paulo, Buenos Aires, and London since 2023 🌍, I've gained a wide understanding of different industries and challenges. I’m passionate about building high-quality software that helps businesses grow 📈 and improves user experiences. 💡
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
