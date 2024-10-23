@@ -9,7 +9,7 @@
 
 **About me**
 
-I'm a Full-Stack Software Developer with over 8+ years of experience in e-commerce, cloud systems, and system integrations. I work with PHP, Java, Golang, and JavaScript to build software that improves performance and reduces costs. I also have experience with cloud platforms like AWS and Google Cloud. ☁️
+I'm a Full-Stack Software Developer with over 10+ years of experience in e-commerce, cloud systems, and system integrations. I work with PHP, Java, Golang, and JavaScript to build software that improves performance and reduces costs. I also have experience with cloud platforms like AWS and Google Cloud. ☁️
 
 I enjoy working in agile teams 🤝, focusing on collaboration and continuous improvement.
 
