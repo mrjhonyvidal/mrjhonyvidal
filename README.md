@@ -13,13 +13,8 @@ I'm a Full-Stack Software Developer with over 10+ years of experience in e-comme
 
 I enjoy working in agile teams 🤝, focusing on collaboration and continuous improvement.
 
-🌱 Having worked in São Paulo, Buenos Aires, and London since 2023 🌍, I've gained a wide understanding of different industries and challenges. I’m passionate about building high-quality software that helps businesses grow 📈 and improves user experiences. 💡
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+🌱 Having worked in São Paulo, Buenos Aires, and London since 2023 🌍, I've gained a wide understanding of different industries and challenges. 
+I’m passionate about building high-quality software that helps businesses grow 📈.  
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjhonyvidal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jhony Vidal's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjhonyvidal&layout=compact&theme=buefy&hide_border=true" /> |
