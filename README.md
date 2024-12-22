@@ -9,13 +9,14 @@
 
 **About me**
 
-I'm a Full-Stack Software Developer with over 10+ years of experience in e-commerce, cloud systems, and system integrations. I work with PHP, Java, Golang, and JavaScript to build software that improves performance and reduces costs. I also have experience with cloud platforms like AWS and Google Cloud. ☁️
+I’m a Full-Stack Software Developer with over 10 years of experience building e-commerce platforms, cloud systems, and integrations that help businesses grow. 🚀
 
-I enjoy working in agile teams 🤝, focusing on collaboration and continuous improvement.
+I’ve worked with PHP, Java/Scala, and JavaScript on the job, and I love tinkering with Python, Golang, and building [mobile apps with Flutter](https://apkpure.com/aipetto/com.aipetto) in my personal projects. 💻 I enjoy creating software that runs smoothly, saves costs, and delights users.
 
-🌱 Having worked in São Paulo, Buenos Aires, and London since 2023 🌍, I've gained a wide understanding of different industries and challenges. 
-I’m passionate about building high-quality software that helps businesses grow 📈.  
+I have hands-on experience with AWS and Google Cloud, keeping apps fast and reliable. ☁️
+I’ve lived and worked in São Paulo, Buenos Aires, and now London, which has helped me appreciate different markets and cultures. 🌎 I’m fluent in English, Spanish, and Portuguese, so I can collaborate easily with teams worldwide. 🤝
 
+I love being part of agile teams that have open communication and quick feedback loops. 🔄 If you’re looking for a developer to build software that boosts your business, let’s connect and make it happen together! ✨
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjhonyvidal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jhony Vidal's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjhonyvidal&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
