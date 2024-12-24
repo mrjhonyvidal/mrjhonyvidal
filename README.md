@@ -1,5 +1,16 @@
 ## Hey there 👋, welcome to my GitHub profile.
 
+I’m a Full-Stack Developer with 10+ years of experience building scalable e-commerce platforms, cloud systems, and integrations. Focused on creating reliable software that drives business growth.
+
+🔨 My Stack 🔨
+
+- Front-end: JavaScript/Typescript, React, Next.js;
+- Back-end: PHP, Python, Go;
+- DevOps: Docker, Kubernetes;
+- Databases: MySQL, MongoDB;
+- Cloud: AWS, GCP;
+- Mobile: Flutter;
+
 <div align="center" width="50">
 
 ![](https://komarev.com/ghpvc/?username=mrjhonyvidalD&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -7,27 +18,15 @@
 [![Linkedin: jhony-vidal](https://img.shields.io/badge/-jhonyvidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhony-vidal/)](https://www.linkedin.com/in/jhony-vidal/)
 </div>
 
-**About me**
-
-I’m a Full-Stack Software Developer with over 10 years of experience building e-commerce platforms, cloud systems, and integrations that help businesses grow. 🚀
-
-I’ve worked with PHP, Java/Scala, and JavaScript on the job, and I love tinkering with Python, Golang, and building [mobile apps with Flutter](https://apkpure.com/aipetto/com.aipetto) in my personal projects. 💻 I enjoy creating software that runs smoothly, saves costs, and delights users.
-
-I have hands-on experience with AWS and Google Cloud, keeping apps fast and reliable. ☁️
-I’ve lived and worked in São Paulo, Buenos Aires, and now London, which has helped me appreciate different markets and cultures. 🌎 I’m fluent in English, Spanish, and Portuguese, so I can collaborate easily with teams worldwide. 🤝
-
-I love being part of agile teams that have open communication and quick feedback loops. 🔄 If you’re looking for a developer to build software that boosts your business, let’s connect and make it happen together! ✨
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjhonyvidal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jhony Vidal's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjhonyvidal&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-🔨 **My stack** 🔨
+**About Me**
 
-- Front-end: Javascript, Typescript, React, Next.js;
-- Testing: Cypress, Jest, TDD and BDD practices;
-- Back-end: Node.js, PHP, Java, Golang, Python;
-- Mobile: Flutter/Dart;
-- Databases: MySQL, MongoDB, PostgreSQL;
-- Cloud Platforms: Google Cloud, AWS, Heroku, Vercel, Netlify, Mulesoft;
+- Built cloud systems and e-commerce platforms that reduce costs and enhance efficiency.
+- Skilled in PHP, Java, JavaScript, and Python, with experience in AWS and Google Cloud.
+- Fluent in English, Spanish, and Portuguese, with global work experience in 🇧🇷 São Paulo, 🇦🇷 Buenos Aires, and 🇬🇧 London.
 
-**Dev Mantra:** Imagination, consistent improvement, and discipline can move mountains or "just" build great teams, products and make your code compile...
+**Dev Mantra**
+Innovate, adapt, and deliver solutions that empower teams and businesses.
