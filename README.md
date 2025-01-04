@@ -1,11 +1,11 @@
 ## Hey there 👋, welcome to my GitHub profile.
 
-I’m a Full-Stack Developer with 10+ years of experience building scalable e-commerce platforms, cloud systems, and integrations. Focused on creating reliable software that drives business growth.
+Full-Stack Developer with 10+ years of experience building scalable e-commerce platforms, cloud systems, and integrations. Focused on creating reliable software that drives business growth.
 
 🔨 My Stack 🔨
 
 - Front-end: JavaScript/Typescript, React, Next.js;
-- Back-end: PHP, Python, Go;
+- Back-end: PHP, Python, Java, Go;
 - DevOps: Docker, Kubernetes;
 - Databases: MySQL, MongoDB;
 - Cloud: AWS, GCP;
