@@ -19,7 +19,7 @@ Full-Stack Developer with 10+ years of experience building scalable e-commerce p
 </div>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjhonyvidal&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Jhony Vidal's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjhonyvidal&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjhonyvidal&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Jhony Vidal's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjhonyvidal&layout=pie&theme=ambient_gradient&hide_border=true&size_weight=0.5&count_weight=0.5" /> |
 | ------------- | ------------- |
 
 **About Me**
