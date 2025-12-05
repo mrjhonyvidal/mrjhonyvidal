@@ -1,18 +1,11 @@
-## Hi there 👋, welcome to my GitHub profile. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=099AF7&random=true&width=435&lines=%24+Designing+scalable+systems...;%24+Building+end+to+end+automations...;%24+Connecting+data+pipelines...;%24+Deploying+production+ML+models...;%24+Experimenting+with+AI+%E2%88%82)](https://git.io/typing-svg)
 
-[![Jhony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrjhonyvidal&count_private=true&theme=transparent&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/mrjhonyvidal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjhonyvidal&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
-
-I'm **Jhony Vidal**, a full-stack software developer now living in **SW London, UK** under a Skilled Worker visa.
-
-Originally from South America, I've worked in 🇧🇷 São Paulo, 🇦🇷 Buenos Aires, bringing over **10 years of experience** building products, automations, and integrations.  
-
-- 🧑‍💻 I love turning ideas into scalable digital products  
-- 🤝 I'm open to collaborating on **open source projects**  
-- 💬 Ask me about **automations, integrations, and AI**  
-- 🌎 Fluent in **English, Spanish, and Portuguese**  
-- 🏃‍♂️ I love sports — ran the **2024 London Marathon**, practice **karate**, and in 2025 I'll be riding the **London to Brighton** one more time for Alzheimer's Society (my escape valve to balance the daily chaos)  
-- ⚡ Fun fact: I play 5 instruments but somehow never mastered a full song 🎶
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=5"
+    alt="GitHub trophies"
+  />
+</p>
 
 <div align="center" width="50">
 
